@@ -35,6 +35,7 @@
 * [Hijri.js](https://github.com/xsoh/Hijri.js) -  Tool for the Islamic calender (Hijri) in Javascript.
 * [moment-hijri](https://github.com/xsoh/moment-hijri) -  A Hijri calendar (Based on Umm al-Qura calculations) plugin for moment.js
 * [moment-jalaali](https://github.com/jalaali/moment-jalaali) - A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js.
+* [hijri-date-picker](https://github.com/abublihi/hijir-date-picker) - A simple and reusable Hijri date picker react component.
 
 ### Python
 * [Python Hijri Umalqurra](https://github.com/tytkal/python-hijiri-ummalqura) - An Umm al-Qura Hijri python tool.
