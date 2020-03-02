@@ -37,8 +37,8 @@
 * [Hijri.js](https://github.com/xsoh/Hijri.js) -  أداة بسيطة للتقويم الهجري على الجافاسكربت.
 * [moment-hijri](https://github.com/xsoh/moment-hijri) -  إضافة لـmoment.js تقوم بتزويدك بالتفويم الهجري داخل مومينت.
 * [moment-jalaali](https://github.com/jalaali/moment-jalaali) - إضافة لـmoment.js تقوم بتزويدك بالتفويم الهجري الشمسي داخل مومينت.
-* [hijri-date-picker](https://github.com/abublihi/hijir-date-picker) - مكون بسيط لإختيار التاريخ في الويب،
-تم عمله بواسطة [رياكت](https://reactjs.org).
+* [hijri-date-picker](https://github.com/abublihi/hijir-date-picker) - مكون بسيط لإختيار التاريخ في الويب، تم عمله بواسطة [رياكت](https://reactjs.org).
+* [datepicker-hijri](https://github.com/abublihi/datepicker-hijri) - مكون بسيط لتحدد التاريخ الهجري (لا يعتمد على اي اطار عمل، يعمل في اي مكان)
 
 ### بايثون Python
 * [Python Hijri Umalqurra](https://github.com/tytkal/python-hijiri-ummalqura) - أداة للهجري في البايثون.
