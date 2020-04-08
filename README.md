@@ -44,6 +44,7 @@
 
 ### Ruby
 * [Parsi Date](https://github.com/hzamani/parsi-date) - A Solar Hijri (Jalali, Persian) date library for Ruby
+* [hijri](https://github.com/ecleel/hijri) - Hijri date library for Ruby
 
 ### Golang
 * [Hijrical](https://github.com/saidalisamed/utils/tree/master/hijrical) - An Umm al-Qura Gregorian to Hijri date converter for Golang. 
