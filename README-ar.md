@@ -45,3 +45,4 @@
 
 ### روبي Ruby
 * [Parsi Date](https://github.com/hzamani/parsi-date) - هجري شمسي للغة روبي.
+* [hijri](https://github.com/ecleel/hijri) - مكتبة للتعامل مع التقويم الهحري في روبي
