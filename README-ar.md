@@ -46,3 +46,7 @@
 ### روبي Ruby
 * [Parsi Date](https://github.com/hzamani/parsi-date) - هجري شمسي للغة روبي.
 * [hijri](https://github.com/ecleel/hijri) - مكتبة للتعامل مع التقويم الهحري في روبي
+
+### بي إتش بي PHP
+
+* [Ar-PHP](https://github.com/khaled-alshamaa/ar-php) - مكتبة بي إتش بي تحتوي العديد من الأدوات للغة العربية من بينها أدوات التعامل مع التاريخ الهجري. يمكن الحصول على شرح توضيحي في [هذا الرابط](https://ar-php.org/github/examples/date.php).
