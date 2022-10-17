@@ -11,6 +11,7 @@
   * [Python](#python)
   * [Ruby](#ruby)
   * [Golang](#golang)
+  * [PHP](#php)
 
 
 ### What is Hijri?
@@ -47,4 +48,8 @@
 * [hijri](https://github.com/ecleel/hijri) - Hijri date library for Ruby
 
 ### Golang
-* [Hijrical](https://github.com/saidalisamed/utils/tree/master/hijrical) - An Umm al-Qura Gregorian to Hijri date converter for Golang. 
+* [Hijrical](https://github.com/saidalisamed/utils/tree/master/hijrical) - An Umm al-Qura Gregorian to Hijri date converter for Golang.
+
+
+### PHP
+[Ar-PHP](https://github.com/khaled-alshamaa/ar-php) - a PHP library that contains a set of functionalities for the Arabic language, containing "Hijri" date functionalities. You can see a demo in [this link](https://ar-php.org/github/examples/date.php).
